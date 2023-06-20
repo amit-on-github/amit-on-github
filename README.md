@@ -1,7 +1,1 @@
-amit
-kumar
-s
-s
-s
-s
-s
+AMIT ON GITHUB 
